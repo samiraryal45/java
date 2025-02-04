@@ -26,6 +26,16 @@ const quotes=[
     }, {
         quote : `“It is better to be hated for what you are than to be loved for what you are not.”`,
         person : `Andie Gide`
+    }, {
+        quote : `“Art is a lie that makes us realize truth.” `,
+        person : `Pablo Picasso`
+    }
+
+    
+    , {
+        quote : `“Change will not come if we wait for some other person or some other time. We are the ones we’ve been waiting for. We are the change that we seek.” 
+ `,
+        person : `Barak Obama`
     }
 ]
 

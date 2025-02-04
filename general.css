@@ -1,0 +1,88 @@
+
+
+:root{
+    --clr-white:#fff;
+    --clr-blue:#3432a8; 
+    --clr-grey:#808080;
+    --clr-black:#000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:1536px) {
+    body{
+    height: 90vh;
+    
+}
+.container{
+   width:600px;
+   height: 300px;
+
+    }
+.header{
+    font-size: 1.5rem;
+    width:90%;
+}
+
+.text{
+    
+    width: 90%;
+   
+}
+
+.button-area button{
+    font: 1.4em sans-serif;
+}
+
+
+}
+
+
+@media (max-width:475px) {
+    body{
+        height: 100vh;
+        
+    }
+    .container{
+       width:400px;
+       height: 300px;
+    
+        }
+    .header{
+        font-size: 1rem;
+        width:70%;
+    }
+    .content{
+        width:95%;
+        text-align: center;
+    }
+    .text{
+        
+        width: 80%;
+        font-size: 1rem;
+    }
+    
+    .button-area button{
+        font: 1em sans-serif;
+    }
+    
+}
+
